@@ -61,7 +61,6 @@ password: 123456
 用户前台：http://localhost:8080/springbooteuw84/front/index.html
 
 3. 开发工具：推荐使用 Chrome 浏览器
-```
 
 # 项目实际截图：
 
